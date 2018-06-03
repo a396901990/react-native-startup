@@ -1,0 +1,7 @@
+{
+    "extends": "fbjs",
+    "rules": {
+        "max-len": [1, 120, 2, { "ignoreUrls": true }],
+        "semi": 0
+      }
+}
